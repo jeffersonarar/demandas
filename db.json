@@ -1,108 +1,6 @@
 {
   "projects": [
     {
-      "id": "c11b"
-    },
-    {
-      "id": "2a24"
-    },
-    {
-      "id": "b2b1"
-    },
-    {
-      "id": "5e46"
-    },
-    {
-      "id": "a6a9"
-    },
-    {
-      "id": "bacc"
-    },
-    {
-      "id": "cf31"
-    },
-    {
-      "id": "99d5"
-    },
-    {
-      "id": "51a1"
-    },
-    {
-      "id": "4ef2"
-    },
-    {
-      "id": "f60d"
-    },
-    {
-      "id": "a597"
-    },
-    {
-      "id": "c0e7"
-    },
-    {
-      "id": "07f0"
-    },
-    {
-      "id": "3f66"
-    },
-    {
-      "id": "d1fb"
-    },
-    {
-      "id": "43ed"
-    },
-    {
-      "id": "ca65"
-    },
-    {
-      "id": "fb23"
-    },
-    {
-      "id": "60dd"
-    },
-    {
-      "id": "e694"
-    },
-    {
-      "id": "411e"
-    },
-    {
-      "id": "9029"
-    },
-    {
-      "id": "abb3"
-    },
-    {
-      "id": "4e25"
-    },
-    {
-      "id": "27a5"
-    },
-    {
-      "id": "65dc"
-    },
-    {
-      "id": "f159"
-    },
-    {
-      "id": "09c3"
-    },
-    {
-      "id": "ab87"
-    },
-    {
-      "id": "c1b1"
-    },
-    {
-      "id": "10d9"
-    },
-    {
-      "id": "0f4c"
-    },
-    {
-      "id": "f79f"
-    },
-    {
       "id": "c18a",
       "name": "teste",
       "budget": "1",
@@ -307,6 +205,28 @@
       "category": {
         "id": "1",
         "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "c0b1",
+      "name": "GRE",
+      "budget": "10",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "92ea",
+      "name": "Jefferson",
+      "budget": "10",
+      "category": {
+        "id": "3",
+        "name": "Desenvolvimento"
       },
       "cost": 0,
       "services": []
